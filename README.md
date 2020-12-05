@@ -1,2 +1,3 @@
 # Programming-for-Analytics
-Some useful programs I learned through my first python course
+A python group project of regression analysis of assets against S&P 500
+A small guess words program
